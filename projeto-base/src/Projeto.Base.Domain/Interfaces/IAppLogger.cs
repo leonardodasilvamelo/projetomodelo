@@ -1,6 +1,6 @@
 using System;
 
-namespace Transacao.Cartao.GatewayAcl.Domain.Interfaces
+namespace Projeto.Base.Domain.Interfaces
 {
     /// <summary>
     /// Interface para serviço de logging da aplicação
