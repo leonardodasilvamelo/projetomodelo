@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Transacao.Cartao.GatewayAcl.Api\Transacao.Cartao.GatewayAcl.Api.csproj" />
+    <ProjectReference Include="..\Projeto.Base.Api\Projeto.Base.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>
