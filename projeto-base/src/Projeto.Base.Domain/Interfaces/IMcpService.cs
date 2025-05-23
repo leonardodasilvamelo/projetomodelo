@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Transacao.Cartao.GatewayAcl.Domain.Interfaces
+namespace Projeto.Base.Domain.Interfaces
 {
     public interface IMcpService
     {
